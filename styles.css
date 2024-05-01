@@ -4,3 +4,13 @@
     padding: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+html {
+    background-color: white;
+    color: black;
+}
+
+.navbar li {
+    position: fixed;
+    border-radius: 1px;
+    border-color: black;
+}
